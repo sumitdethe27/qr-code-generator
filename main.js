@@ -16,3 +16,7 @@ window.open(ans,"_blanck");
 
 
 })
+const premium=document.querySelector(".premium")
+premium.addEventListener("click",()=>{
+    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley","_blank")
+})
